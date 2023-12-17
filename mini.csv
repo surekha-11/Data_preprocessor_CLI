@@ -1,0 +1,501 @@
+Names,Department,CGPA,Annual_Package,Designation,Passing_Year
+Trinetra,CIVIL,7.78,5.1,HR,2015
+Kamali,CIVIL,6.85,17.8,Data Scienist,2020
+Kamali,CIVIL,7.72,6.2,CEO,2017
+,CIVIL,2.93,9.5,,2023
+Jyothi Surekha,CSE,2.18,3.8,Data Scienist,2021
+Surya,EEE,1.27,4.4,Service Engineer,2015
+Trinetra,EEE,5.02,5.5,Android Developer,2016
+Trinetra,EEE,9.07,7.4,Data Scienist,2020
+Satyanarayana,CIVIL,,5.8,Ethical Hacker,2023
+Sathvik,EEE,3.41,4.3,Manager,2021
+Satyanarayana,CSE,7.32,2,Service Engineer,2022
+Virajitha,EEE,7.85,15.8,HR,2017
+Prasana,CSE,5.48,7.4,Android Developer,2019
+,CSE,2.47,15.3,Manager,2019
+Satyanarayana,CSE,1.23,11.8,Service Engineer,
+Subhash,EEE,4.71,17.1,Web Developer,2020
+Naga Mani,CIVIL,7.6,6.1,Service Engineer,2017
+Sowjanya,CIVIL,6.32,18.1,Ethical Hacker,2015
+Mrudula,CIVIL,2.52,2.8,Android Developer,2020
+Rishi,,6.62,18.1,,2017
+Virajitha,EEE,3.48,2.3,Android Developer,2022
+Vineela,EEE,8.42,2.9,Ethical Hacker,2017
+Virajitha,CSE,3.05,10.7,HR,2023
+Vineela,CSE,5.42,,Data Scienist,2019
+Trinetra,CSE,6.14,4.6,Service Engineer,2015
+Sathvik,CSE,9.18,9.3,CEO,2022
+,CIVIL,5.66,12,Manager,
+Sathvik,CSE,3.29,1.3,data Analyst,2019
+Sai,CSE,3.74,8.8,Service Engineer,2024
+Satyanarayana,EEE,2.71,17.9,Android Developer,2018
+Prasana,CIVIL,1.55,6.8,Manager,2023
+Mrudula,CIVIL,9.35,16.8,CEO,2016
+Surya,CIVIL,2.19,11.1,Service Engineer,2021
+Naga Mani,CIVIL,8.87,9.6,CEO,2016
+Naga Mani,CIVIL,6.72,11.7,Data Scienist,2021
+Vineela,EEE,2.52,8.4,Ethical Hacker,2019
+,CSE,4.92,9.4,CEO,2023
+Virajitha,EEE,1.1,9.9,HR,2021
+Sowjanya,EEE,5.63,6.3,Data Scienist,2023
+Surya,CIVIL,2.26,11.3,Service Engineer,2022
+Prasana,CIVIL,8.43,5.4,Service Engineer,2024
+Prasana,CSE,7.78,15.7,Android Developer,2019
+Sai,,1.75,4.3,data Analyst,2016
+Sathvik,CIVIL,5.52,11.8,CEO,2019
+Kamali,EEE,1.3,8.6,Web Developer,2020
+Vineela,EEE,6.85,11.8,Data Scienist,2022
+Sujatha,EEE,7.54,14.2,Android Developer,2019
+Virajitha,EEE,1.79,6.5,,2023
+Virajitha,CIVIL,2.95,16.5,Web Developer,2021
+Sai,CIVIL,3.57,14.1,HR,2021
+,EEE,,11.6,data Analyst,
+Satyanarayana,EEE,1.38,3.4,Service Engineer,2019
+Amrutha,CSE,7.82,18.8,Manager,2020
+Naga Mani,CIVIL,4.91,18.3,Manager,2017
+Sathvik,CIVIL,3.43,9.8,data Analyst,2024
+Surya,CSE,3.42,13.6,Data Scienist,2017
+Subhash,CSE,6,9.4,Software Engineer,2016
+Mrudula,CIVIL,6.53,9,CEO,2015
+Surya,CIVIL,5.55,12.8,Web Developer,2020
+Satya,CIVIL,2.76,11.7,Service Engineer,2022
+Sai,EEE,7.06,8.7,CEO,2019
+Vineela,CSE,6.51,11.9,Data Scienist,2019
+Sathvik,CIVIL,9.88,9.8,Software Engineer,2024
+Jyothi Surekha,CSE,5.96,9.1,Service Engineer,2020
+,CSE,7.66,11.4,Service Engineer,2023
+Virajitha,EEE,1.45,7.9,Software Engineer,2019
+Jyothi Surekha,EEE,8.04,19.5,Android Developer,2020
+Surya,CSE,1.22,4.6,data Analyst,2018
+Naga Mani,CIVIL,8.34,7.1,Manager,2018
+Sathvik,CIVIL,8.04,9.4,data Analyst,2018
+Mrudula,EEE,1.23,16.6,Service Engineer,2022
+Vineela,CSE,2.86,18.1,Service Engineer,2018
+Sai,EEE,9.46,7.8,CEO,2023
+,CIVIL,2.35,19.7,Web Developer,2018
+Prasana,CIVIL,6.13,12,Data Scienist,2020
+Surya,CSE,2.68,4,data Analyst,2018
+Trinetra,CIVIL,6.53,11.8,Web Developer,2018
+Jyothi Surekha,CIVIL,2.14,1.5,data Analyst,2023
+,CIVIL,9.47,13.4,HR,2020
+Subhash,CSE,1.37,19.2,Data Scienist,
+Subhash,EEE,3.64,15.4,Web Developer,2019
+Virajitha,CIVIL,7.98,1.6,Android Developer,2018
+,EEE,5.72,17.1,Android Developer,2018
+Sai,CIVIL,7.82,6.3,Service Engineer,2016
+,CSE,6.26,4.1,CEO,2015
+Jyothi Surekha,CIVIL,8.31,8.2,,2023
+Mrudula,CIVIL,5.36,14.4,CEO,2024
+Rishi,CIVIL,5.22,14.5,Web Developer,2021
+Satya,CSE,8.75,16.5,Android Developer,2022
+Naga Mani,CSE,2.75,19.9,Software Engineer,2019
+Naga Mani,EEE,5.59,9.4,Service Engineer,2020
+Kamali,CSE,1.3,9.6,Ethical Hacker,2017
+Satya,EEE,8.63,8.2,Data Scienist,2024
+Virajitha,EEE,8.57,2.2,Ethical Hacker,2024
+Virajitha,EEE,5.72,13.7,CEO,2015
+Jyothi Surekha,EEE,4.52,19.2,Ethical Hacker,2017
+,CIVIL,3.06,12.5,HR,2016
+Rishi,CIVIL,1.85,19.2,Web Developer,2019
+Trinetra,CSE,9.26,13,Manager,2017
+Sai,CIVIL,5.58,6.7,data Analyst,2017
+Kamali,CIVIL,4.26,10.9,Android Developer,2021
+Prasana,CIVIL,3.49,18.8,,2015
+Sathvik,EEE,7.02,1.8,Software Engineer,2021
+Surya,EEE,1.99,18,HR,2015
+Sathvik,EEE,4.08,15.1,CEO,2019
+Amrutha,CSE,9.38,16.2,Ethical Hacker,2020
+Sujatha,CIVIL,2.67,12.2,CEO,2015
+Subhash,CIVIL,1.99,1.2,Ethical Hacker,2015
+Jyothi Surekha,CSE,5.26,10.1,HR,
+Mrudula,EEE,3.79,3.7,data Analyst,2022
+Sowjanya,CSE,7.43,10.4,CEO,2016
+Vineela,EEE,7.26,10.6,Web Developer,2017
+,CSE,5.77,6.3,Service Engineer,2019
+Vineela,EEE,5.7,12.3,HR,2022
+Kamali,CSE,5.19,18.3,Data Scienist,2019
+Kamali,EEE,2.22,8.5,Service Engineer,2018
+Surya,CSE,1.2,18.2,CEO,2021
+Satyanarayana,EEE,3.4,13.8,Data Scienist,2024
+Sujatha,CIVIL,7.85,15.8,Android Developer,2021
+Sowjanya,CIVIL,1.62,10.2,Manager,2018
+Naga Mani,EEE,1.89,17.2,Software Engineer,2019
+Satyanarayana,EEE,7.91,9.4,Data Scienist,2019
+Trinetra,CSE,8.69,18.4,HR,2016
+Mrudula,CSE,4.53,4.9,Ethical Hacker,2015
+Jyothi Surekha,CSE,2.15,2,Ethical Hacker,2024
+Rishi,EEE,7.77,17.4,Web Developer,2019
+Rishi,CIVIL,3.28,4.8,Service Engineer,2024
+,CSE,9.18,7.4,Service Engineer,2021
+Sathvik,CIVIL,8.42,8.9,Android Developer,2022
+Sowjanya,CSE,6.97,19.9,Service Engineer,2020
+Amrutha,EEE,6.62,12.8,Web Developer,2017
+Kamali,CSE,1.68,4.2,Web Developer,2019
+Kamali,CSE,5.34,6.7,CEO,2018
+Sowjanya,EEE,7.42,10.5,Data Scienist,2021
+Naga Mani,CSE,6.36,6.4,Android Developer,2022
+Prasana,CIVIL,5.08,7.1,Data Scienist,2020
+Trinetra,CIVIL,8.18,14.1,Software Engineer,2024
+Virajitha,EEE,3.37,3.7,data Analyst,2023
+Sujatha,EEE,5.08,13.5,Manager,2017
+Satyanarayana,EEE,7.59,4.1,Service Engineer,2022
+Rishi,CIVIL,7.62,3.4,Ethical Hacker,2019
+Rishi,EEE,8.24,4.6,Manager,2021
+Amrutha,CIVIL,7.41,19.5,Android Developer,2021
+Naga Mani,CIVIL,4.43,12,Service Engineer,2021
+Surya,EEE,7.88,4.3,Software Engineer,2018
+Vineela,EEE,8.51,5.8,Service Engineer,2023
+Subhash,CSE,4.75,13.2,Ethical Hacker,2021
+Sai,CSE,8.55,4.8,Manager,2020
+Amrutha,CIVIL,3.31,5.7,CEO,2019
+,EEE,4.71,10.4,data Analyst,2015
+Vineela,CSE,9.39,2.4,Manager,2021
+Sathvik,CSE,2.47,11.9,Service Engineer,2023
+Satya,EEE,8.07,16.1,CEO,2017
+Mrudula,CSE,3.34,4.6,Web Developer,2023
+Jyothi Surekha,CIVIL,7.62,7.6,data Analyst,2016
+Amrutha,EEE,1.99,9,data Analyst,2022
+Virajitha,CSE,3.58,17.4,Android Developer,2019
+Satyanarayana,CSE,2.67,6.3,data Analyst,2022
+Sowjanya,EEE,9.6,4.7,Data Scienist,2023
+Satyanarayana,CSE,8.69,1.2,data Analyst,2015
+Surya,CIVIL,8.16,6.4,Manager,2016
+Surya,CIVIL,2.42,1.2,HR,2017
+Sujatha,EEE,5.44,18.9,Data Scienist,2018
+Virajitha,CSE,6.96,1.8,Service Engineer,2015
+Satya,CIVIL,6.53,16.6,Service Engineer,2016
+Amrutha,CIVIL,1.19,9.1,data Analyst,2020
+Subhash,EEE,6.17,19.5,Manager,2021
+Jyothi Surekha,CSE,1.5,8.2,HR,2020
+Virajitha,EEE,1.96,7.3,Manager,2021
+Sai,CSE,3.7,7.8,Software Engineer,2023
+Trinetra,EEE,9.72,2.2,CEO,2015
+Jyothi Surekha,EEE,3.45,16.3,data Analyst,2021
+Sai,EEE,7.4,16.6,Web Developer,2015
+Sujatha,EEE,2.23,4.6,CEO,2022
+Sowjanya,CIVIL,6.59,16.6,Web Developer,2015
+,EEE,6.67,15.9,Manager,2016
+Virajitha,EEE,6.13,19.3,HR,2017
+Vineela,CSE,2.44,11.3,Software Engineer,2024
+Vineela,CSE,4.62,14.9,HR,2017
+,CSE,9.49,12.2,Ethical Hacker,2016
+Rishi,CIVIL,3.89,6.8,Ethical Hacker,2015
+Sowjanya,CIVIL,6.94,10,CEO,2021
+Rishi,CSE,3.54,12.3,Software Engineer,2018
+Rishi,EEE,9.47,19.4,Manager,2018
+Naga Mani,CIVIL,6.17,2.3,Android Developer,2015
+Sujatha,CSE,9.41,6.3,Web Developer,2020
+Jyothi Surekha,CSE,4.09,4.2,Software Engineer,2024
+Trinetra,EEE,9.02,10.5,Ethical Hacker,2020
+Prasana,EEE,1.32,2.3,HR,2016
+Sowjanya,CSE,2.24,14.3,HR,2015
+Sai,EEE,2.38,7.2,Manager,2017
+,CIVIL,2.37,5.6,Android Developer,2018
+Trinetra,CIVIL,4.82,13.3,Manager,2019
+Subhash,CIVIL,9.65,8.8,data Analyst,2021
+Satyanarayana,CSE,6.21,18,Service Engineer,2023
+Naga Mani,EEE,9.68,15.8,HR,2015
+Prasana,CSE,9.91,16.8,Web Developer,2022
+Satya,CSE,3.97,14.6,Software Engineer,2019
+Virajitha,CSE,1.07,7,Service Engineer,2021
+Naga Mani,CIVIL,9.92,9.2,Data Scienist,2018
+Sathvik,CSE,4.64,7,Service Engineer,2018
+Virajitha,CSE,6.54,4.1,Software Engineer,2019
+Prasana,EEE,2.18,10.5,Manager,2018
+Amrutha,CIVIL,5.13,6.6,Android Developer,2024
+Sathvik,EEE,7.25,18.2,Ethical Hacker,2020
+Subhash,CIVIL,2.89,7.3,Web Developer,2015
+Sowjanya,CIVIL,7.61,13.9,Web Developer,2022
+Satya,CSE,6.99,8,Manager,2016
+Trinetra,CIVIL,9.95,17.2,CEO,2015
+Vineela,EEE,7.37,8.5,Android Developer,2019
+Naga Mani,CSE,5.6,1.2,Manager,2022
+Trinetra,EEE,8.71,2.9,data Analyst,2018
+Trinetra,EEE,4.83,11.6,Android Developer,2017
+Mrudula,CIVIL,4.3,16.6,Ethical Hacker,2016
+Jyothi Surekha,CIVIL,4.24,5.4,Web Developer,2021
+Kamali,CSE,8.89,19.4,HR,2024
+Trinetra,EEE,1.75,8.9,CEO,2020
+Amrutha,CIVIL,2.74,10.8,Software Engineer,2021
+Trinetra,CSE,5.73,19.9,Ethical Hacker,2022
+Rishi,EEE,9.13,4.4,Manager,2015
+Trinetra,CSE,2.42,4,Manager,2015
+Surya,EEE,4.38,19.1,HR,2015
+Sujatha,CIVIL,2.96,16.4,Service Engineer,2024
+Sujatha,CIVIL,3.78,9.2,data Analyst,2024
+Kamali,EEE,9.25,2.4,data Analyst,2016
+Mrudula,CSE,7.52,15.2,Software Engineer,2017
+Satyanarayana,CIVIL,3.61,3.9,Ethical Hacker,2023
+Rishi,CIVIL,8.96,6.3,HR,2015
+Sai,CIVIL,2.33,10.4,Ethical Hacker,2017
+Satya,CIVIL,8.07,1.6,Software Engineer,2017
+Mrudula,CSE,6.78,10.2,Data Scienist,2024
+Naga Mani,EEE,7.08,7.2,data Analyst,2015
+Prasana,EEE,6.27,7.5,Software Engineer,2022
+Kamali,CSE,8.35,1.4,CEO,2022
+Kamali,CIVIL,3.5,18.7,CEO,2019
+Sowjanya,EEE,3.5,9.1,CEO,2022
+Mrudula,CSE,4.77,11.1,HR,2022
+Sowjanya,EEE,2.84,18.5,CEO,2024
+Subhash,CIVIL,8.7,13.6,Manager,2022
+Trinetra,EEE,5.05,15.7,data Analyst,2015
+Mrudula,EEE,7.1,5.5,Service Engineer,2019
+Mrudula,EEE,3.48,15.4,HR,2015
+Naga Mani,EEE,7.48,13.7,Android Developer,2020
+Virajitha,CSE,6.53,7.5,Service Engineer,2023
+Naga Mani,CIVIL,9.37,2.3,Web Developer,2015
+Prasana,EEE,5.37,7.8,Manager,2021
+Virajitha,EEE,9.59,6.8,Web Developer,2021
+Amrutha,CIVIL,9.1,13.2,Manager,2022
+Sai,CIVIL,8.11,11.8,Data Scienist,2015
+Virajitha,CIVIL,4.36,8.4,Android Developer,2022
+Sujatha,CSE,3.41,7,Manager,2016
+Satya,CSE,2.05,2.4,Web Developer,2018
+Satya,CIVIL,1.18,9.1,Web Developer,2016
+Mrudula,CIVIL,5.82,8.9,Data Scienist,2015
+Satya,EEE,8.39,15.8,Software Engineer,2024
+Virajitha,CSE,4.78,19,Software Engineer,2021
+Prasana,CIVIL,7.79,18.1,Web Developer,2017
+Sujatha,CSE,4.42,19.7,Manager,2016
+Sai,EEE,1.41,10.3,Manager,2016
+Virajitha,CIVIL,2.76,7,Manager,2021
+Mrudula,CSE,3.8,4.1,Software Engineer,2023
+Sai,EEE,4.74,10.4,CEO,2016
+Rishi,CIVIL,8.99,10.1,data Analyst,2016
+Amrutha,CSE,6.53,1.8,Web Developer,2016
+Sujatha,CIVIL,2.65,18.9,Software Engineer,2016
+Rishi,,5.87,17,Ethical Hacker,
+Rishi,EEE,2.21,8.1,Software Engineer,2018
+Sujatha,CIVIL,5.57,6.6,Data Scienist,2020
+Prasana,CIVIL,9.63,18.1,data Analyst,2023
+Kamali,EEE,7.2,1,,2020
+Sathvik,CIVIL,1.83,11.6,Ethical Hacker,2016
+Satya,,3.53,11.5,HR,2017
+Mrudula,CIVIL,4.46,18.8,Software Engineer,2023
+Mrudula,EEE,4.02,14.7,data Analyst,2016
+Trinetra,CIVIL,7.22,4.8,Web Developer,2020
+Mrudula,EEE,6.21,17.8,HR,2017
+Subhash,EEE,8.57,17.6,Manager,2023
+,CIVIL,5.32,7.5,,2018
+Subhash,CIVIL,1.01,9.9,Android Developer,2021
+Prasana,CSE,8.87,9.2,HR,2019
+Prasana,CIVIL,6.74,2.1,data Analyst,2024
+Amrutha,CIVIL,,12,Ethical Hacker,2022
+Prasana,EEE,6.48,12.6,data Analyst,2021
+Kamali,CIVIL,6.45,9.5,Web Developer,2022
+Sathvik,EEE,1.67,10.2,Ethical Hacker,2016
+Trinetra,CIVIL,8.17,18.7,Software Engineer,2020
+Satya,CSE,4,2.5,Service Engineer,2024
+Trinetra,CSE,6.09,5.2,Data Scienist,2020
+Sowjanya,CIVIL,6.84,14.1,Ethical Hacker,2024
+Subhash,EEE,,8.1,HR,2015
+Vineela,CIVIL,1.37,10.5,Android Developer,2022
+Sujatha,EEE,3.01,5,Android Developer,2024
+Subhash,CSE,8.6,7,Manager,2021
+Satya,CSE,4.96,14,Manager,2022
+Mrudula,CIVIL,3.01,17,Software Engineer,2023
+Trinetra,CSE,9.41,12.8,CEO,2023
+Surya,CIVIL,5.4,6.8,Software Engineer,2022
+Rishi,CSE,9.79,15.4,Ethical Hacker,2019
+Jyothi Surekha,CSE,5.8,16.9,data Analyst,2023
+,CSE,8.5,11.6,Data Scienist,2016
+Satya,CSE,,10.2,Web Developer,2024
+Mrudula,EEE,9.97,10.9,HR,2017
+Virajitha,EEE,8.28,15.6,Data Scienist,2019
+Sai,CSE,4.56,7.5,Android Developer,2021
+Satyanarayana,EEE,4.6,9.4,Ethical Hacker,2020
+Satyanarayana,CIVIL,1.19,1.8,CEO,2021
+Virajitha,CSE,9.26,11.6,CEO,2017
+Sujatha,CIVIL,3.76,4.4,HR,2023
+Surya,CSE,6.18,14.6,Service Engineer,2024
+Amrutha,CSE,2.35,8.5,Ethical Hacker,2024
+Satyanarayana,EEE,4.36,19,Service Engineer,2019
+Sathvik,CIVIL,5.59,5.4,Software Engineer,2021
+Mrudula,CSE,2.03,18,Service Engineer,2021
+Trinetra,CSE,7.87,12.7,CEO,2017
+Satyanarayana,EEE,2.65,3.9,CEO,2017
+Virajitha,CSE,5.75,16.7,HR,2022
+Vineela,EEE,8.32,18.3,Web Developer,2021
+Surya,CIVIL,9.82,12,Manager,2024
+,CIVIL,3.78,14,data Analyst,2023
+Kamali,CIVIL,8.27,16.5,Manager,2019
+Sathvik,EEE,4.84,19.4,Android Developer,2022
+Sujatha,EEE,4.9,19.8,CEO,2017
+Sai,EEE,3.94,4.2,Software Engineer,2023
+Satyanarayana,CSE,8.78,19.1,data Analyst,2021
+Sowjanya,EEE,4.09,19,Software Engineer,2021
+Sujatha,CSE,3.25,9.5,CEO,2021
+Sathvik,CIVIL,9.81,17.5,data Analyst,2021
+Sathvik,EEE,9.76,7.3,Ethical Hacker,2023
+Rishi,CSE,2.98,7.8,data Analyst,2018
+Vineela,CIVIL,7.45,1.8,Ethical Hacker,2021
+Jyothi Surekha,EEE,3.18,11.5,Android Developer,2019
+Surya,CIVIL,2.58,19.1,CEO,2024
+,EEE,3.21,4.3,CEO,2018
+Amrutha,CIVIL,2.04,16.3,data Analyst,2024
+Sowjanya,EEE,7.53,1.2,Software Engineer,2020
+Trinetra,CIVIL,5.63,15.8,data Analyst,2016
+Mrudula,CSE,5.32,1.3,Web Developer,2023
+Naga Mani,EEE,1.09,17.7,Software Engineer,2016
+,EEE,4.13,10.5,data Analyst,2017
+Vineela,EEE,3.33,14,data Analyst,2017
+Rishi,EEE,1.8,4.3,Web Developer,2022
+Surya,CSE,3.05,9.2,Manager,2020
+Sathvik,CSE,2.24,10.1,,2015
+Sowjanya,CIVIL,2.2,12.7,CEO,2021
+Sai,EEE,8.93,16.8,Manager,2016
+Sujatha,EEE,7.32,12.2,Service Engineer,2015
+Satya,CIVIL,4.02,19.8,Data Scienist,2016
+Mrudula,CSE,1.75,6.9,CEO,2021
+Subhash,CSE,1.31,17.1,Software Engineer,2024
+Rishi,CSE,7.84,9.5,CEO,2024
+,CIVIL,1.3,19.8,Android Developer,2017
+Trinetra,CSE,9.08,17.5,Manager,2023
+Mrudula,CIVIL,9.93,18.7,Manager,2015
+Satyanarayana,CIVIL,5.72,8.6,HR,2024
+Subhash,CSE,4.62,14,Data Scienist,2020
+Surya,CIVIL,5.3,11,data Analyst,2016
+Sai,CSE,5.57,6.6,Android Developer,2017
+Sujatha,EEE,6.35,2.5,Web Developer,2017
+Subhash,CSE,8.38,3.4,HR,2024
+Mrudula,EEE,1.48,8.8,,2017
+Jyothi Surekha,CSE,2.49,2.1,HR,2017
+Sowjanya,EEE,2.53,3.9,data Analyst,2015
+Sowjanya,CSE,,18.5,Android Developer,2019
+Prasana,CIVIL,7.69,15.8,Web Developer,2023
+Amrutha,EEE,5.45,1.8,data Analyst,2021
+Satyanarayana,EEE,7.52,10.6,data Analyst,2024
+Jyothi Surekha,CSE,1.7,7.3,CEO,2017
+Naga Mani,EEE,1.4,15,Software Engineer,2023
+Satya,CSE,9.63,10.8,Service Engineer,2023
+Prasana,CSE,9.77,8.4,CEO,2019
+Amrutha,CIVIL,6.4,15.4,Software Engineer,2015
+Kamali,CIVIL,9.47,4.1,Web Developer,2021
+Satya,CSE,2.74,10.5,CEO,2022
+Sujatha,EEE,7.73,17,CEO,2015
+Sathvik,CIVIL,4.18,13.3,Service Engineer,2018
+Kamali,EEE,5.44,1.4,HR,2017
+Kamali,CSE,9.29,14.7,Data Scienist,2016
+Sowjanya,CIVIL,2.95,18.6,Web Developer,2024
+Sai,CSE,5.28,12,Software Engineer,2016
+Satyanarayana,EEE,4.9,5.4,Service Engineer,2018
+Mrudula,CSE,6.54,4.5,data Analyst,2017
+Sai,EEE,4.27,16.6,Android Developer,2018
+Virajitha,EEE,3.08,16.9,Web Developer,2015
+Jyothi Surekha,EEE,2.54,7.6,Ethical Hacker,2016
+Sathvik,CIVIL,5.35,1.3,CEO,2020
+Rishi,CIVIL,4.09,7.2,Manager,2022
+Surya,CIVIL,9.56,8.5,CEO,2015
+Amrutha,EEE,6.46,3.1,Web Developer,2022
+Naga Mani,CSE,7.29,4.4,Android Developer,2015
+,CIVIL,3.56,13.4,Android Developer,2024
+Subhash,EEE,7.99,2.9,Manager,2023
+Sowjanya,EEE,4.14,18.7,Data Scienist,2023
+Satyanarayana,CIVIL,7.38,11.6,Ethical Hacker,2022
+Amrutha,EEE,9.92,8.9,CEO,2023
+Prasana,CIVIL,8.98,12.9,CEO,2016
+Mrudula,EEE,9.87,3.5,Data Scienist,2023
+Sujatha,EEE,8.17,16.2,Ethical Hacker,2019
+,CSE,6.88,19.4,Software Engineer,2018
+Rishi,CIVIL,2.49,12.3,Software Engineer,2018
+Sowjanya,CSE,1.14,16.8,Web Developer,2018
+Surya,CSE,8.22,8.3,Web Developer,2024
+Mrudula,CIVIL,7.03,2,Service Engineer,2016
+Satyanarayana,CSE,9.93,14.2,HR,2024
+Virajitha,CIVIL,9.8,7.7,HR,2019
+Sai,EEE,4.13,1.2,data Analyst,2018
+Trinetra,CSE,8.61,19.7,data Analyst,2022
+Prasana,CIVIL,9.59,5.9,Service Engineer,2017
+Subhash,CSE,9.38,10.8,Web Developer,2024
+Rishi,EEE,7.58,5.3,Service Engineer,2016
+Sowjanya,CSE,4.4,10.1,Ethical Hacker,2020
+Naga Mani,CIVIL,3.26,16.8,CEO,2016
+Trinetra,CSE,7.41,11.8,Data Scienist,2015
+Naga Mani,CSE,9.07,19,data Analyst,2022
+Subhash,CSE,9.52,18.7,Data Scienist,2016
+Jyothi Surekha,CSE,8.27,1.9,Data Scienist,2019
+Vineela,EEE,2.26,19.9,Web Developer,2017
+Kamali,CSE,9.04,9.1,Service Engineer,2018
+Virajitha,EEE,4.25,2.3,Data Scienist,2015
+Subhash,EEE,2.29,12.8,Manager,2019
+Jyothi Surekha,CSE,2.52,15.1,Web Developer,2018
+Virajitha,CIVIL,1.11,5.9,Software Engineer,2024
+Prasana,CIVIL,5,12.4,Android Developer,2017
+Prasana,EEE,3.45,7.2,Ethical Hacker,2015
+,EEE,2,11,Web Developer,2024
+Subhash,CIVIL,8.05,16.2,HR,2021
+Subhash,EEE,1.98,4.3,Web Developer,2018
+Mrudula,EEE,4.28,17.2,Manager,2023
+Vineela,EEE,7.57,7.1,Software Engineer,2023
+Sai,CSE,4.04,2.8,HR,2017
+Vineela,CIVIL,7.97,10.3,Software Engineer,2017
+Sujatha,EEE,3.59,13.7,Web Developer,2022
+Sathvik,EEE,2.47,10.2,Ethical Hacker,2020
+Sathvik,EEE,6.72,11,Software Engineer,2017
+Amrutha,CIVIL,5.48,7.2,Ethical Hacker,2020
+Virajitha,EEE,7.58,10.5,Data Scienist,2017
+Sathvik,EEE,3.97,4.5,Ethical Hacker,2018
+Trinetra,EEE,9.7,14.6,Service Engineer,2021
+Sathvik,CIVIL,9.75,4.7,Data Scienist,2023
+Rishi,CSE,5,5.2,Data Scienist,2023
+Trinetra,EEE,9.34,10.1,CEO,2019
+Trinetra,EEE,5.42,3.7,Software Engineer,2016
+Naga Mani,CIVIL,4.05,17.5,Ethical Hacker,2020
+Surya,CIVIL,4.77,17.8,Service Engineer,2018
+Rishi,EEE,8.05,1.7,data Analyst,2019
+Surya,CSE,1.97,6.6,data Analyst,2015
+Rishi,CSE,1.23,17.5,Software Engineer,2017
+Subhash,CSE,7.92,5.1,HR,2021
+,EEE,8.88,4,Manager,2022
+Vineela,CSE,2.28,11.1,data Analyst,2020
+Prasana,CIVIL,2.5,19.4,Service Engineer,2021
+Sathvik,EEE,1.89,16.5,HR,2023
+Jyothi Surekha,CSE,9.03,19.3,Android Developer,2022
+Mrudula,EEE,8.3,17.1,Manager,2022
+Virajitha,CSE,7.09,4.5,Software Engineer,2021
+Sai,EEE,8.46,4.3,Web Developer,2024
+Prasana,EEE,3.74,8.6,data Analyst,2015
+Sujatha,CIVIL,2.98,11.7,data Analyst,2018
+Vineela,EEE,8.42,9.4,data Analyst,2015
+Satya,EEE,5.27,2.7,Ethical Hacker,2018
+Mrudula,EEE,4.56,6.2,Ethical Hacker,2016
+Virajitha,CSE,5.66,18,Service Engineer,2022
+Sujatha,CSE,5.39,13,CEO,2019
+Mrudula,CSE,9.14,18.7,Service Engineer,2021
+Prasana,CSE,1.53,6.9,data Analyst,2015
+Sathvik,CIVIL,9.19,10.6,Software Engineer,2018
+Kamali,EEE,6.98,4.2,CEO,2024
+Jyothi Surekha,EEE,9.19,9.6,Service Engineer,2019
+Jyothi Surekha,CSE,5.14,4,Ethical Hacker,2023
+Satya,CSE,6.16,10.9,Manager,2016
+Virajitha,CSE,7.36,3.6,Software Engineer,2022
+Kamali,EEE,8.07,3.8,CEO,2020
+Surya,CIVIL,2.78,16.7,CEO,2023
+Sathvik,CIVIL,5.9,8.3,Android Developer,2022
+Virajitha,EEE,1.4,2.9,data Analyst,2020
+Satya,CIVIL,8.18,13.3,Software Engineer,2021
+Prasana,CIVIL,3.14,19.5,Web Developer,2021
+Satyanarayana,CSE,4.27,11.2,Service Engineer,2022
+Satya,CIVIL,2.21,20,Ethical Hacker,2018
+Satyanarayana,CSE,5.19,4.8,HR,2024
+Mrudula,CSE,1.49,8.3,HR,2016
+Trinetra,CSE,5.62,3.8,Ethical Hacker,2019
+Kamali,CSE,9.19,15.2,Software Engineer,2019
+Satya,CIVIL,8.82,10.7,Android Developer,2024
+Amrutha,CSE,4.89,4.5,HR,2021
+Subhash,CIVIL,5.4,19.4,Software Engineer,2022
+Virajitha,CSE,2.61,8.2,Manager,2021
+Sai,EEE,4.86,5,Software Engineer,2020
+Vineela,EEE,2.8,13.5,Software Engineer,2021
+Sowjanya,EEE,7.05,17,Data Scienist,2020
+Subhash,EEE,6.39,14.2,CEO,2015
+,EEE,3.56,9,Web Developer,2019
+,CSE,5.19,16.2,data Analyst,2017
+Jyothi Surekha,EEE,4.23,9.2,Web Developer,2019
+Sai,EEE,8.92,7.2,Web Developer,2020
+Virajitha,CIVIL,3.41,12.5,Web Developer,2022
+Subhash,CIVIL,6.33,8.8,Ethical Hacker,2015
+Sai,CSE,6.54,13.1,data Analyst,2019
+Rishi,CIVIL,3.47,13.6,Manager,2021
+Sujatha,CIVIL,5.72,13.2,Data Scienist,2023
+,CIVIL,2.15,16.8,Web Developer,2023
